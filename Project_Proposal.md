@@ -26,5 +26,19 @@ so we can finish the things we have planed.
 
 Because it's a shool project there will be no costs for it.
 
+We will be using the school pc and our own Lapotop if we have one. For the software we and my partner are using Visual Studio Code, GitHub and Moodle.
+
+The following points we will need so we can start with the project
+
++ Software (will take 5 min to download and set it up)
++ The Shoe selection (will take 1 week or maybe even more to sync it with the database and to clean it up so it looks great.
++ Login/Register (maybe 3 Hours)
++ Shopping Cart(5 Hours maybe 1 day)
+
+## Conclusion
+
+Speaing in generall i think it's not going to be hard work but time consumeing, for exmaple the style of the site will take a lot of time because we may not like it anymore and so we have to change it, or the shoe selection will take also a time to make it as good and clearly as we can. 
+
+
                                                     **Work in progress**
 
